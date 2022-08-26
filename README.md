@@ -8,13 +8,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newhorizons1" alt="newhorizons1" /></a> </p>
 
 
-
+<section align="center">
 - 👨‍💻 All of my projects are available at www.louistarantino.com
 
 - 💬 Ask me about __Java Script, lets talk!__
 
 - 📫 How to reach me __louiswebdev@protonmail.com__
-</p>
+</section>
 
 <h3 align="center">Connect with me:</h3>
 
