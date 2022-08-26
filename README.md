@@ -9,11 +9,11 @@
 
 
 <section align="center">
-- 👨‍💻 All of my projects are available at www.louistarantino.com
+ 👨‍💻 All of my projects are available at www.louistarantino.com
 
-- 💬 Ask me about __Java Script, lets talk!__
+💬 Ask me about __Java Script, lets talk!__
 
-- 📫 How to reach me __louiswebdev@protonmail.com__
+📫 How to reach me __louiswebdev@protonmail.com__
 </section>
 
 <h3 align="center">Connect with me:</h3>
