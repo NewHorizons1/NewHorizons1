@@ -11,8 +11,6 @@
 <section align="center">
  👨‍💻 All of my projects are available at www.louistarantino.com
 
-💬 Ask me about __Java Script, lets talk!__
-
 📫 How to reach me __louiswebdev@protonmail.com__
 </section>
 
@@ -22,7 +20,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/louis-tarantino/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/Louistarantin0" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
